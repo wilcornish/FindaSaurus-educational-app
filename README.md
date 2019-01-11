@@ -1,4 +1,4 @@
-# FindaSaurus-educational-app
+# FindaSaurus
 API integrated app using PBDB, leaflet and media wiki apis to display an educational fossil location app
 
 ## Getting Started
